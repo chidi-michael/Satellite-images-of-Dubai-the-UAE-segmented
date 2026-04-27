@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"name": "models",
+			"path": "../models"
+		},
+		{
+			"name": "BeatsPerMinute-of-Songs",
+			"path": "../../../../Desktop/project_1/BeatsPerMinute-of-Songs"
+		},
+		{
+			"name": "notebooks",
+			"path": "https://colab.research.google.com/drive/1m29bMkeh0sE0s2zTMpmy5iNMYOrL62km?usp=sharing"
+		},
+		{
+			"name": "outputs",
+			"path": "../outputs"
+		},
+		{
+			"name": "src",
+			"path": "../src"
+		},
+		{
+			"name": ".dvc",
+			"path": "../.dvc"
+		},
+		{
+			"name": "docs",
+			"path": "../docs"
+		},
+		{
+			"name": "gitignore",
+			"path": "../gitignore"
+		}
+	],
+	"settings": {}
+}
